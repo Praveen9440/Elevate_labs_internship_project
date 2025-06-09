@@ -92,7 +92,7 @@ jupyter notebook notebooks/CLV_Prediction_Model.ipynb
 
 You can find the final 2-page project report in:
 ```
-report/2_Page_Project_Report.pdf
+report/🧮 Customer Lifetime Value (CLV) Prediction Model.pdf
 ```
 
 ---
